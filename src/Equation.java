@@ -1,4 +1,7 @@
-
+/**
+ * @author Theo Orion Acker
+ *
+ */
 public class Equation {
 	private Operation op1, op2;
     private int solution;

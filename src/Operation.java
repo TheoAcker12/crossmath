@@ -1,4 +1,7 @@
-
+/**
+ * @author Theo Orion Acker
+ *
+ */
 public enum Operation {
 	ADD, SUBTRACT, MULTIPLY, DIVIDE;
 

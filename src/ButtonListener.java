@@ -3,7 +3,10 @@ import java.awt.event.ActionListener;
 
 import javax.swing.JComboBox;
 import javax.swing.JTextField;
-
+/**
+ * @author Theo Orion Acker
+ *
+ */
 public class ButtonListener implements ActionListener {
 	
 	View view;

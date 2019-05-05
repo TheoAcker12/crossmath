@@ -10,7 +10,10 @@ import javax.swing.SwingConstants;
 import java.awt.Dimension;
 import javax.swing.JButton;
 import javax.swing.BoxLayout;
-
+/**
+ * @author Theo Orion Acker
+ *
+ */
 public class View {
 
 	private JFrame frame;

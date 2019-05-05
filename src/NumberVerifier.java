@@ -1,7 +1,10 @@
 import javax.swing.InputVerifier;
 import javax.swing.JComponent;
 import javax.swing.JTextField;
-
+/**
+ * @author Theo Orion Acker
+ *
+ */
 class NumberVerifier extends InputVerifier {
     private int maxLength;
 

@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Random;
-
+/**
+ * @author Theo Orion Acker
+ *
+ */
 public class CrossMath {
 
 	// solve based on equations
